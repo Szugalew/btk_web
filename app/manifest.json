@@ -1,6 +1,6 @@
 {
-    "name": "brain_tool_kit_flutter_project",
-    "short_name": "brain_tool_kit_flutter_project",
+    "name": "brain_tool_kit",
+    "short_name": "brain_tool_kit",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

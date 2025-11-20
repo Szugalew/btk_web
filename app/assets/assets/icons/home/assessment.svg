@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="33.66" height="33.66">
+    <defs>
+        <clipPath id="a">
+            <path data-name="Path 1123" d="M0-141.74h33.66v-33.66H0Z" transform="translate(0 175.4)" fill="none"/>
+        </clipPath>
+        <clipPath id="b">
+            <path data-name="Rectangle 39" fill="#fff" d="M0 0h22.165v14.406H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="Group 186">
+        <g data-name="Group 170">
+            <path data-name="Path 1117" d="m11.268 24.521-2.13-2.13 1.634-1.634 2.13 2.129Z" fill="#22b6c1"/>
+        </g>
+        <g data-name="Group 171">
+            <path data-name="Path 1118" d="m10.758 24.01-1.109-1.109 1.634-1.633 1.109 1.109Z" fill="#22b6c1"/>
+        </g>
+        <g data-name="Group 172">
+            <path data-name="Path 1119" d="m12.226 23.563-2.13-2.13.677-.677 2.13 2.13Z" fill="#22b6c1"/>
+        </g>
+        <g data-name="Group 179" clip-path="url(#a)">
+            <g data-name="Group 173">
+                <path data-name="Path 1120" d="M11.48 22.175a12.991 12.991 0 0 0 18.374 0 12.992 12.992 0 0 0 0-18.374 12.992 12.992 0 0 0-18.374 0 12.992 12.992 0 0 0 0 18.374m1.21-17.164a11.281 11.281 0 0 1 15.953 0 11.281 11.281 0 0 1 0 15.953 11.279 11.279 0 0 1-15.953 0 11.282 11.282 0 0 1 0-15.953" fill="#32449c"/>
+            </g>
+            <g data-name="Group 174">
+                <path data-name="Path 1121" d="M12.4 21.261a11.694 11.694 0 0 0 16.537 0 11.7 11.7 0 0 0 0-16.537 11.7 11.7 0 0 0-16.537 0 11.694 11.694 0 0 0 0 16.537m.612-15.924a10.826 10.826 0 0 1 15.311 0 10.826 10.826 0 0 1 0 15.311 10.825 10.825 0 0 1-15.311 0 10.827 10.827 0 0 1 0-15.311" fill="#32449c"/>
+            </g>
+            <g data-name="Group 178" opacity=".6">
+                <g data-name="Group 177">
+                    <g data-name="Group 176" clip-path="url(#b)" transform="translate(9.514 8.302)">
+                        <g data-name="Group 175">
+                            <path data-name="Path 1122" d="M5.035 7.279a9.359 9.359 0 0 0 13.232 0 9.309 9.309 0 0 0 2.125-3.3 9.334 9.334 0 0 1-2.7 7.489 9.359 9.359 0 0 1-13.235 0 9.353 9.353 0 0 1-2.126-9.939 9.321 9.321 0 0 0 2.7 5.746" fill="#fff"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g data-name="Group 180">
+            <path data-name="Path 1124" d="m4.713 32.845-3.895-3.9 7.719-7.719 3.895 3.895Z" fill="#32449c"/>
+        </g>
+        <g data-name="Group 181">
+            <path data-name="Path 1125" d="m3.831 31.958-2.133-2.13 7.72-7.718 2.129 2.13Z" fill="#32449c"/>
+        </g>
+        <g data-name="Group 184" clip-path="url(#a)">
+            <g data-name="Group 182">
+                <path data-name="Path 1126" d="M.057 28.576c-.641.641 4.385 5.668 5.027 5.027l.393-.394c.641-.639-4.383-5.668-5.026-5.026Z" fill="#22b6c1"/>
+            </g>
+            <g data-name="Group 183">
+                <path data-name="Path 1127" d="M.893 29.412c-.642.641 2.713 4 3.354 3.354l.394-.393c.641-.641-2.714-3.995-3.354-3.354Z" fill="#22b6c1"/>
+            </g>
+        </g>
+    </g>
+</svg>

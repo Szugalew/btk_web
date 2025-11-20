@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32.035" height="32.035">
+    <g data-name="Group 205">
+        <g data-name="Group 199" transform="translate(-41.482 -88.482)">
+            <circle data-name="Ellipse 43" cx="3.5" cy="3.5" r="3.5" transform="translate(54 101)" fill="#ff1515"/>
+            <g data-name="Ellipse 44" transform="translate(46 93)" fill="none" stroke="#21b6c1">
+                <circle cx="11.5" cy="11.5" r="11.5" stroke="none"/>
+                <circle cx="11.5" cy="11.5" r="11"/>
+            </g>
+        </g>
+    </g>
+</svg>

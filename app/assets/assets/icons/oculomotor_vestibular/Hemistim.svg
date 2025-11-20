@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="26">
+    <g data-name="Group 204" transform="translate(-46 -430)">
+        <path data-name="Rectangle 30" fill="#ff1614" d="M53 430h6v6h-6z"/>
+        <path data-name="Rectangle 33" fill="#ff1614" d="M66 430h6v6h-6z"/>
+        <path data-name="Rectangle 29" fill="#ff1614" d="M53 443h6v6h-6z"/>
+        <path data-name="Rectangle 31" fill="#ff1614" d="M66 443h6v6h-6z"/>
+        <path data-name="Rectangle 28" fill="#ff1614" d="M46 436h7v7h-7z"/>
+        <path data-name="Rectangle 34" fill="#ff1614" d="M46 449h7v7h-7z"/>
+        <path data-name="Rectangle 32" fill="#ff1614" d="M59 436h7v7h-7z"/>
+        <path data-name="Rectangle 35" fill="#ff1614" d="M59 449h7v7h-7z"/>
+        <circle data-name="Ellipse 52" cx="3" cy="3" r="3" transform="translate(56 440)"/>
+    </g>
+</svg>
